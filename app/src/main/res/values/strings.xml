@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Comics</string>
+    <string name="load_state_error">The results could not be loaded</string>
+    <string name="retry_text_button">Retry</string>
+    <string name="detail_text_button">Detail</string>
+    <string name="release_date_placeholder">Released: N/A<!--March 17, 2021--></string>
+    <string name="image_comic_cover">Comic cover</string>
+</resources>
